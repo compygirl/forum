@@ -91,7 +91,7 @@ Please replace the placeholders with project-specific information. This README p
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:ayessenb/forum.git
+git clone git@github.com:compygirl/forum.git
 ```
 Go to the downloaded repository:
 
