@@ -1,6 +1,5 @@
 # Forum Web Application
-* `ayessenb` 
-* `roshakba` 
+* `compygirl` - Aigerim Yessenbayeva
 
 
 ## Objectives
